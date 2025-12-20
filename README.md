@@ -35,7 +35,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,livewire,python,mysql,matlab,git,github,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,tailwind,bootstrap,livewire,python" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,git,github,vscode,linux,figma,matlab" />
 </p>
 
 ---
