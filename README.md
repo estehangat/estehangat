@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student | Web Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://tenor.com/view/what-yall-know-about-baby-yoda-gif-1598733335134549249" width="300"/>
+  <div class="tenor-gif-embed" data-postid="1598733335134549249" data-share-method="host" data-aspect-ratio="0.997992" data-width="100%"><a href="https://tenor.com/view/what-yall-know-about-baby-yoda-gif-1598733335134549249">What Yall GIF</a>from <a href="https://tenor.com/search/what-gifs">What GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <p align="center">
