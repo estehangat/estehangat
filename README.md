@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student | Web Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZsNW9nODl4emI1NXJ1bHpsN3hhd3JqemJ4NGF5b3VqZ2ZpZXRnZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+  <img src="https://tenor.com/view/what-yall-know-about-baby-yoda-gif-1598733335134549249" width="300"/>
 </p>
 
 <p align="center">
